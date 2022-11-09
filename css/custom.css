@@ -28,3 +28,93 @@
   display: flex;
   flex-wrap:nowrap;
 }
+
+/* 导航栏居中 */
+#nav .menus_items {
+  position: absolute;
+  width: fit-content;
+  left: 50%;
+  transform: translate(-50%);
+}
+/* 子菜单栏居中 */
+#nav .menus_items .menus_items:hover .menus_item_child{
+  display: flex;
+}
+
+/* 头像加载 */
+.loading-img {
+  background: url(/img/head.jpg) no-repeat center center;
+  background-size: cover;
+}
+
+/* 进度条 */
+.pace {
+  pointer-events: none;
+  user-select: none;
+  z-index: 2;
+  position: fixed;
+  margin: auto;
+  top: 4px;
+  left: 0;
+  right: 0;
+  height: 8px;
+  border-radius: 8px;
+  width: 6rem;
+  background: #eaecf2;
+  overflow: hidden;
+}
+
+.pace-inactive .pace-progress {
+  opacity: 0;
+  transition: 0.3s ease-in;
+}
+
+.pace.pace-inactive {
+  opacity: 0;
+  transition: 0.3s;
+  top: -8px;
+}
+
+.pace .pace-progress {
+  box-sizing: border-box;
+  transform: translate3d(0, 0, 0);
+  position: fixed;
+  z-index: 2;
+  display: block;
+  position: absolute;
+  top: 0;
+  right: 100%;
+  height: 100%;
+  width: 100%;
+  background: #49b1f5;
+  background: linear-gradient(
+    to right,
+    rgb(18, 194, 233),
+    rgb(196, 113, 237),
+    rgb(246, 79, 89)
+  );
+  animation: gradient 2s ease infinite;
+  background-size: 200%;
+}
+/* 置顶百分比 */
+/* 返回顶部 */
+
+button#go-up #percent {
+  display: none;
+  font-weight: bold;
+  font-size: 15px !important;
+}
+
+button#go-up span {
+  font-size: 12px!important;
+  margin-right: -1px;
+}
+
+/* 鼠标滑动到按钮上时显示返回顶部图标 */
+button#go-up:hover i {
+  display: block !important;
+}
+
+button#go-up:hover #percent {
+  display: none !important;
+}
