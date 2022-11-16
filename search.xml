@@ -38,9 +38,9 @@
     
     
     <entry>
-      <title></title>
-      <link href="/css/custom.css"/>
-      <url>/css/custom.css</url>
+      <title>关于</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
     </entry>
     
@@ -57,6 +57,15 @@
     
     <entry>
       <title></title>
+      <link href="/css/about.css"/>
+      <url>/css/about.css</url>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
       <link href="/css/test.css"/>
       <url>/css/test.css</url>
       
@@ -65,18 +74,9 @@
     
     
     <entry>
-      <title>关于</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title></title>
-      <link href="/js/countup.js"/>
-      <url>/js/countup.js</url>
+      <link href="/css/custom.css"/>
+      <url>/css/custom.css</url>
       
     </entry>
     
@@ -102,8 +102,8 @@
     
     <entry>
       <title></title>
-      <link href="/js/music.js"/>
-      <url>/js/music.js</url>
+      <link href="/js/countup.js"/>
+      <url>/js/countup.js</url>
       
     </entry>
     
@@ -131,6 +131,15 @@
       <title>更新日志</title>
       <link href="/timeline/index.html"/>
       <url>/timeline/index.html</url>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/js/music.js"/>
+      <url>/js/music.js</url>
       
     </entry>
     
