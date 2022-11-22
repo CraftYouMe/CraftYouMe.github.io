@@ -38,24 +38,6 @@
     
     
     <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/css/about.css"/>
-      <url>/css/about.css</url>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title></title>
       <link href="/css/custom.css"/>
       <url>/css/custom.css</url>
@@ -84,15 +66,6 @@
     
     <entry>
       <title></title>
-      <link href="/js/countup.js"/>
-      <url>/js/countup.js</url>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
       <link href="/css/test.css"/>
       <url>/css/test.css</url>
       
@@ -101,36 +74,9 @@
     
     
     <entry>
-      <title></title>
-      <link href="/js/custom.js"/>
-      <url>/js/custom.js</url>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>友情链接</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/js/music.js"/>
-      <url>/js/music.js</url>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>音乐</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
     </entry>
     
@@ -146,6 +92,24 @@
     
     
     <entry>
+      <title>标签</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>音乐</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>更新日志</title>
       <link href="/timeline/index.html"/>
       <url>/timeline/index.html</url>
@@ -155,9 +119,27 @@
     
     
     <entry>
-      <title>标签</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title></title>
+      <link href="/js/custom.js"/>
+      <url>/js/custom.js</url>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/js/music.js"/>
+      <url>/js/music.js</url>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>友情链接</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
     </entry>
     
