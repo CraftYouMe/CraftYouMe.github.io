@@ -119,18 +119,18 @@
     
     
     <entry>
-      <title>留言板</title>
-      <link href="/comments/index.html"/>
-      <url>/comments/index.html</url>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
     </entry>
     
     
     
     <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
+      <title>留言板</title>
+      <link href="/comments/index.html"/>
+      <url>/comments/index.html</url>
       
     </entry>
     
@@ -147,8 +147,8 @@
     
     <entry>
       <title></title>
-      <link href="/css/custom_nav.css"/>
-      <url>/css/custom_nav.css</url>
+      <link href="/css/height.css"/>
+      <url>/css/height.css</url>
       
     </entry>
     
@@ -156,8 +156,8 @@
     
     <entry>
       <title></title>
-      <link href="/css/height.css"/>
-      <url>/css/height.css</url>
+      <link href="/css/custom_nav.css"/>
+      <url>/css/custom_nav.css</url>
       
     </entry>
     
@@ -174,8 +174,8 @@
     
     <entry>
       <title></title>
-      <link href="/js/custom.js"/>
-      <url>/js/custom.js</url>
+      <link href="/js/music.js"/>
+      <url>/js/music.js</url>
       
     </entry>
     
@@ -183,8 +183,8 @@
     
     <entry>
       <title></title>
-      <link href="/js/music.js"/>
-      <url>/js/music.js</url>
+      <link href="/js/custom.js"/>
+      <url>/js/custom.js</url>
       
     </entry>
     
