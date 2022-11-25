@@ -32,6 +32,12 @@
       
       
       
+        <tags>
+            
+            <tag> 资源分享 </tag>
+            
+        </tags>
+      
     </entry>
     
     
@@ -49,18 +55,18 @@
     
     
     <entry>
-      <title>留言板</title>
-      <link href="/comments/index.html"/>
-      <url>/comments/index.html</url>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
     </entry>
     
     
     
     <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
+      <title>留言板</title>
+      <link href="/comments/index.html"/>
+      <url>/comments/index.html</url>
       
     </entry>
     
@@ -77,8 +83,8 @@
     
     <entry>
       <title></title>
-      <link href="/css/custom_nav.css"/>
-      <url>/css/custom_nav.css</url>
+      <link href="/css/height.css"/>
+      <url>/css/height.css</url>
       
     </entry>
     
@@ -86,8 +92,8 @@
     
     <entry>
       <title></title>
-      <link href="/css/height.css"/>
-      <url>/css/height.css</url>
+      <link href="/css/custom_nav.css"/>
+      <url>/css/custom_nav.css</url>
       
     </entry>
     
@@ -139,15 +145,6 @@
     
     
     <entry>
-      <title>标签</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>音乐</title>
       <link href="/music/index.html"/>
       <url>/music/index.html</url>
@@ -160,6 +157,15 @@
       <title>更新日志</title>
       <link href="/timeline/index.html"/>
       <url>/timeline/index.html</url>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>标签</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
     </entry>
     
