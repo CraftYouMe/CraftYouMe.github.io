@@ -147,8 +147,8 @@
     
     <entry>
       <title></title>
-      <link href="/css/height.css"/>
-      <url>/css/height.css</url>
+      <link href="/css/custom_nav.css"/>
+      <url>/css/custom_nav.css</url>
       
     </entry>
     
@@ -156,8 +156,8 @@
     
     <entry>
       <title></title>
-      <link href="/css/custom_nav.css"/>
-      <url>/css/custom_nav.css</url>
+      <link href="/css/height.css"/>
+      <url>/css/height.css</url>
       
     </entry>
     
@@ -174,26 +174,8 @@
     
     <entry>
       <title></title>
-      <link href="/js/music.js"/>
-      <url>/js/music.js</url>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
       <link href="/js/custom.js"/>
       <url>/js/custom.js</url>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>电影</title>
-      <link href="/movies/index.html"/>
-      <url>/movies/index.html</url>
       
     </entry>
     
@@ -209,9 +191,9 @@
     
     
     <entry>
-      <title>音乐</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
+      <title></title>
+      <link href="/js/music.js"/>
+      <url>/js/music.js</url>
       
     </entry>
     
@@ -221,6 +203,24 @@
       <title>标签</title>
       <link href="/tages/index.html"/>
       <url>/tages/index.html</url>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>电影</title>
+      <link href="/movies/index.html"/>
+      <url>/movies/index.html</url>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>音乐</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
       
     </entry>
     
