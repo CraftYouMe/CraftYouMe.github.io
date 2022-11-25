@@ -9,6 +9,18 @@
       <url>/2022/11/25/fx2/</url>
       
       
+      <categories>
+          
+          <category> 大学生刷课 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 资源分享 </tag>
+            
+        </tags>
       
     </entry>
     
@@ -30,6 +42,12 @@
       <link href="/2022/10/28/fx1/"/>
       <url>/2022/10/28/fx1/</url>
       
+      
+      <categories>
+          
+          <category> 在校作业 </category>
+          
+      </categories>
       
       
         <tags>
@@ -55,18 +73,18 @@
     
     
     <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
+      <title>留言板</title>
+      <link href="/comments/index.html"/>
+      <url>/comments/index.html</url>
       
     </entry>
     
     
     
     <entry>
-      <title>留言板</title>
-      <link href="/comments/index.html"/>
-      <url>/comments/index.html</url>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
     </entry>
     
@@ -83,6 +101,15 @@
     
     <entry>
       <title></title>
+      <link href="/css/custom_nav.css"/>
+      <url>/css/custom_nav.css</url>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
       <link href="/css/height.css"/>
       <url>/css/height.css</url>
       
@@ -92,8 +119,8 @@
     
     <entry>
       <title></title>
-      <link href="/css/custom_nav.css"/>
-      <url>/css/custom_nav.css</url>
+      <link href="/js/custom.js"/>
+      <url>/js/custom.js</url>
       
     </entry>
     
@@ -110,8 +137,8 @@
     
     <entry>
       <title></title>
-      <link href="/js/custom.js"/>
-      <url>/js/custom.js</url>
+      <link href="/js/music.js"/>
+      <url>/js/music.js</url>
       
     </entry>
     
@@ -121,15 +148,6 @@
       <title>友情链接</title>
       <link href="/link/index.html"/>
       <url>/link/index.html</url>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/js/music.js"/>
-      <url>/js/music.js</url>
       
     </entry>
     
@@ -164,8 +182,8 @@
     
     <entry>
       <title>标签</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <link href="/tages/index.html"/>
+      <url>/tages/index.html</url>
       
     </entry>
     
