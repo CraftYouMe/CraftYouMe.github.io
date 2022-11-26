@@ -1,11 +1,11 @@
 @font-face {
   font-family: "iconfont"; /* Project id  */
-  src: url('iconfont.ttf?t=1669438462503') format('truetype');
+  src: url('iconfont.ttf?t=1669489196192') format('truetype');
 }
 
 .iconfont {
   font-family: "iconfont" !important;
-  font-size: 23px;
+  font-size: 26px;
   font-style: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -16,6 +16,10 @@
 }
 
 .icon-bilibili-line:before {
-  content: "\e69e";
+  content: "\e75d";
+}
+
+.icon-chrome:before {
+  content: "\ea09";
 }
 
