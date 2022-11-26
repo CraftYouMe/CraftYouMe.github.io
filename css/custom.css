@@ -1,7 +1,10 @@
-#nav-right{
+/* #nav-right{
   flex:1 1 auto;
   justify-content: flex-end;
   margin-left: auto;
   display: flex;
   flex-wrap:nowrap;
+} */
+[data-theme="light"] #nav {
+  background: rgba(255, 255, 255, 0.8);
 }
