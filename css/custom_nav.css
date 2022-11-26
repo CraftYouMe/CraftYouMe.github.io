@@ -1,6 +1,7 @@
 #nav a:hover {
   background: var(--anzhiyu-main);
   transition: 0.4s;
+  color:white;
 }
 
 #nav-totop:hover .totopbtn i {

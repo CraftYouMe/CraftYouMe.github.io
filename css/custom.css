@@ -8,3 +8,6 @@
 [data-theme="light"] #nav {
   background: rgba(255, 255, 255, 0.8);
 }
+#page-header.nav-fixed #nav a:hover, #page-header.nav-fixed #nav #site-name:hover, #page-header.nav-fixed #nav #toggle-menu:hover {
+  color: #fff;
+}
