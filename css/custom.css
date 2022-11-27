@@ -77,3 +77,10 @@
   fill: currentColor;
   overflow: hidden;
 }
+
+#card-toc{
+  font-size: 14px;
+}
+.site-page group{
+  font-size: 17px;
+}
