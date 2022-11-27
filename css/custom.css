@@ -78,9 +78,12 @@
   overflow: hidden;
 }
 
-#card-toc{
+/* 侧边栏字体大小 */
+#aside-content .card-widget {
   font-size: 14px;
 }
-.site-page group{
-  font-size: 17px;
+
+/* 上一篇下一篇距离 */
+#pagination.pagination-post {
+  margin-top: 10px;
 }
