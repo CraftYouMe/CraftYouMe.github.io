@@ -110,15 +110,6 @@
     
     
     <entry>
-      <title>关于</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>留言板</title>
       <link href="/comments/index.html"/>
       <url>/comments/index.html</url>
@@ -128,27 +119,18 @@
     
     
     <entry>
+      <title>关于</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>分类</title>
       <link href="/categories/index.html"/>
       <url>/categories/index.html</url>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>即刻短文</title>
-      <link href="/essay/index.html"/>
-      <url>/essay/index.html</url>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/css/essay_page.css"/>
-      <url>/css/essay_page.css</url>
       
     </entry>
     
@@ -174,8 +156,8 @@
     
     <entry>
       <title></title>
-      <link href="/css/iconfont.css"/>
-      <url>/css/iconfont.css</url>
+      <link href="/css/essay_page.css"/>
+      <url>/css/essay_page.css</url>
       
     </entry>
     
@@ -192,8 +174,8 @@
     
     <entry>
       <title></title>
-      <link href="/css/jindutiao.css"/>
-      <url>/css/jindutiao.css</url>
+      <link href="/css/iconfont.css"/>
+      <url>/css/iconfont.css</url>
       
     </entry>
     
@@ -219,8 +201,26 @@
     
     <entry>
       <title></title>
+      <link href="/css/jindutiao.css"/>
+      <url>/css/jindutiao.css</url>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
       <link href="/css/onepicture.css"/>
       <url>/css/onepicture.css</url>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>即刻短文</title>
+      <link href="/essay/index.html"/>
+      <url>/essay/index.html</url>
       
     </entry>
     
@@ -246,8 +246,8 @@
     
     <entry>
       <title></title>
-      <link href="/js/iconfont.js"/>
-      <url>/js/iconfont.js</url>
+      <link href="/js/music.js"/>
+      <url>/js/music.js</url>
       
     </entry>
     
@@ -255,8 +255,8 @@
     
     <entry>
       <title></title>
-      <link href="/js/music.js"/>
-      <url>/js/music.js</url>
+      <link href="/js/iconfont.js"/>
+      <url>/js/iconfont.js</url>
       
     </entry>
     
@@ -290,18 +290,18 @@
     
     
     <entry>
-      <title>友情链接</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <title></title>
+      <link href="/js/waterfall.js"/>
+      <url>/js/waterfall.js</url>
       
     </entry>
     
     
     
     <entry>
-      <title></title>
-      <link href="/js/waterfall.js"/>
-      <url>/js/waterfall.js</url>
+      <title>友情链接</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
     </entry>
     
