@@ -135,6 +135,15 @@
     
     
     <entry>
+      <title></title>
+      <link href="/css/iconfont.css"/>
+      <url>/css/iconfont.css</url>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>即刻短文</title>
       <link href="/essay/index.html"/>
       <url>/essay/index.html</url>
