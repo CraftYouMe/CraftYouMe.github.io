@@ -4,6 +4,40 @@
   
     
     <entry>
+      <title>课程作业例题</title>
+      <link href="/2023/03/07/test-web1/"/>
+      <url>/2023/03/07/test-web1/</url>
+      
+      
+      
+        <tags>
+            
+            <tag> 课程作业例题 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>使用XSS攻击进行钓鱼网站的登录</title>
+      <link href="/2023/03/07/web5/"/>
+      <url>/2023/03/07/web5/</url>
+      
+      
+      
+        <tags>
+            
+            <tag> Web课程笔记 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>如何在phpstudy_pro中搭建DVWA漏洞测试环境？</title>
       <link href="/2023/03/07/web4/"/>
       <url>/2023/03/07/web4/</url>
