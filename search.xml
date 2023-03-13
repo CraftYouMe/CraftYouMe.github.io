@@ -4,6 +4,57 @@
   
     
     <entry>
+      <title>使用dirsearch和bp工具进行渗透测试：目录扫描和弱密码爆破</title>
+      <link href="/2023/03/13/web9/"/>
+      <url>/2023/03/13/web9/</url>
+      
+      
+      
+        <tags>
+            
+            <tag> Web课程笔记 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>使用Dirsearch和GitHack获取网站源代码并获取flag的步骤</title>
+      <link href="/2023/03/13/web8/"/>
+      <url>/2023/03/13/web8/</url>
+      
+      
+      
+        <tags>
+            
+            <tag> Web课程笔记 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Metasploit框架攻击MS17-010漏洞步骤</title>
+      <link href="/2023/03/13/web7/"/>
+      <url>/2023/03/13/web7/</url>
+      
+      
+      
+        <tags>
+            
+            <tag> Web课程笔记 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>禅知1.6文件读取漏洞攻击与利用</title>
       <link href="/2023/03/08/web6/"/>
       <url>/2023/03/08/web6/</url>
